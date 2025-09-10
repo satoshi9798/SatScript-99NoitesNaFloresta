@@ -106,3 +106,4 @@ end)
 automacaoTab:Toggle("Ativar Coleta Automática", false, function(state)
     print("Coleta Automática ativado:", state, "Tipo:", tipoColeta)
 end)
+adicionando painel SatScript
